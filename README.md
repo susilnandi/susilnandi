@@ -1,5 +1,5 @@
-#### Hi there 👋, My name is Susil Nandi
-###### I am User Experience Designer and Front-End Developer
+## Hi there 👋, My name is Susil Nandi
+#### I am User Experience Designer and Front-End Developer
 ![I am User Experience Designer and Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 With more than 7 years of professional experience and certified in UI, UX and Front-End development field. I am deeply passionate about UI, UX design and development. I would be able to utilize my capabilities to the best extend and in the process add value to the organization.
