@@ -1,6 +1,6 @@
+![I am User Experience Designer and Front-End Developer](https://media-exp1.licdn.com/dms/image/C5616AQGzrMVrtZYzEQ/profile-displaybackgroundimage-shrink_350_1400/0/1663428856615?e=1668643200&v=beta&t=uvZ4WlOMM34uTggWyyR3Szi9zgcUX0mUrYHPmnV5wIw)
 ### Hi there 👋, My name is Susil Nandi
 #### I am User Experience Designer and Front-End Developer
-![I am User Experience Designer and Front-End Developer](https://media-exp1.licdn.com/dms/image/C5616AQGzrMVrtZYzEQ/profile-displaybackgroundimage-shrink_350_1400/0/1663428856615?e=1668643200&v=beta&t=uvZ4WlOMM34uTggWyyR3Szi9zgcUX0mUrYHPmnV5wIw)
 
 With more than 7 years of professional experience and certified in UI, UX and Front-End development field. I am deeply passionate about UI, UX design and development. I would be able to utilize my capabilities to the best extend and in the process add value to the organization.
 
