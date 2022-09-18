@@ -27,7 +27,7 @@ Skills: HTML5, CSS3, SASS, JavaScript, jQuery, React, Asp.net Front-End, C#, PHP
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f802cee54b36dcf718c30cd8dced77654409b69f69207e3b2f63a12dd4e4633/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/4f802cee54b36dcf718c30cd8dced77654409b69f69207e3b2f63a12dd4e4633/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;"></a>
