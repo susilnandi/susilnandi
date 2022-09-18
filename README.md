@@ -24,7 +24,7 @@ Skills: HTML5, CSS3, SASS, JavaScript, jQuery, React, Asp.net Front-End, C#, PHP
 
 ![Profile views](https://gpvc.arturio.dev/susilnandi)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@ Skills: HTML5, CSS3, SASS, JavaScript, jQuery, React, Asp.net Front-End, C#, PHP
 
 
 
-
+##Connect with me
 
 <a href="https://github.com/susilnandi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
